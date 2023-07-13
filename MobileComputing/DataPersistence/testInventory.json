@@ -1,0 +1,134 @@
+[
+    {
+        "id": 0,
+        "name": "Rusty Shield",
+        "category": "Shield",
+        "stat": "def",
+        "durability": 1,
+        "power": 1,
+        "quantity": 10,
+        "dropRate": 0,
+        "sprite": ""
+    },
+    {
+        "id": 1,
+        "name": "Copper Shield",
+        "category": "Shield",
+        "stat": "def",
+        "durability": 1,
+        "power": 2,
+        "quantity": 2,
+        "dropRate": 0,
+        "sprite": ""
+    },
+    {
+        "id": 2,
+        "name": "Silver Shield",
+        "category": "Shield",
+        "stat": "def",
+        "durability": 5,
+        "power": 3,
+        "quantity": 0,
+        "dropRate": 0,
+        "sprite": ""
+    },
+    {
+        "id": 3,
+        "name": "Golden Shield",
+        "category": "Shield",
+        "stat": "def",
+        "durability": 3,
+        "power": 5,
+        "quantity": 1,
+        "dropRate": 0,
+        "sprite": ""
+    },
+    {
+        "id": 4,
+        "name": "Rusty Sword",
+        "category": "Sword",
+        "stat": "atk",
+        "durability": 1,
+        "power": 1,
+        "quantity": 2,
+        "dropRate": 0,
+        "sprite": ""
+    },
+    {
+        "id": 5,
+        "name": "Copper Sword",
+        "category": "Sword",
+        "stat": "atk",
+        "durability": 1,
+        "power": 2,
+        "quantity": 5,
+        "dropRate": 0,
+        "sprite": ""
+    },
+    {
+        "id": 6,
+        "name": "Silver Sword",
+        "category": "Sword",
+        "stat": "atk",
+        "durability": 5,
+        "power": 3,
+        "quantity": 1,
+        "dropRate": 0,
+        "sprite": ""
+    },
+    {
+        "id": 7,
+        "name": "Golden Sword",
+        "category": "Sword",
+        "stat": "atk",
+        "durability": 3,
+        "power": 5,
+        "quantity": 0,
+        "dropRate": 0,
+        "sprite": ""
+    },
+    {
+        "id": 8,
+        "name": "Leather Shoes",
+        "category": "Shoes",
+        "stat": "dex",
+        "durability": 1,
+        "power": 1,
+        "quantity": 7,
+        "dropRate": 0,
+        "sprite": ""
+    },
+    {
+        "id": 9,
+        "name": "Copper Shoes",
+        "category": "Shoes",
+        "stat": "dex",
+        "durability": 1,
+        "power": 2,
+        "quantity": 2,
+        "dropRate": 0,
+        "sprite": ""
+    },
+    {
+        "id": 10,
+        "name": "Silver Shoes",
+        "category": "Shoes",
+        "stat": "dex",
+        "durability": 5,
+        "power": 3,
+        "quantity": 1,
+        "dropRate": 0,
+        "sprite": ""
+    },
+    {
+        "id": 11,
+        "name": "Golden Shoes",
+        "category": "Shoes",
+        "stat": "dex",
+        "durability": 3,
+        "power": 5,
+        "quantity": 1,
+        "dropRate": 0,
+        "sprite": ""
+    }
+]

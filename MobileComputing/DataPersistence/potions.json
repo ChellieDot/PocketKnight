@@ -1,0 +1,68 @@
+[
+    {
+        "id": 0,
+        "name": "Potion",
+        "stat": "",
+        "durability": 1,
+        "quantity": 0,
+        "dropRate": 0,
+        "sprite": "potion1_1"
+    },
+    {
+        "id": 1,
+        "name": "Potion",
+        "stat": "",
+        "durability": 1,
+        "quantity": 0,
+        "dropRate": 0,
+        "sprite": "potion1_2"
+    },{
+        "id": 2,
+        "name": "Potion",
+        "stat": "",
+        "durability": 1,
+        "quantity": 0,
+        "dropRate": 0,
+        "sprite": "potion1_3"
+    },{
+        "id": 3,
+        "name": "Potion",
+        "stat": "",
+        "durability": 1,
+        "quantity": 0,
+        "dropRate": 0,
+        "sprite": "potion1_4"
+    },{
+        "id": 4,
+        "name": "Potion",
+        "stat": "",
+        "durability": 1,
+        "quantity": 0,
+        "dropRate": 0,
+        "sprite": "potion2_1"
+    },{
+        "id": 5,
+        "name": "Potion",
+        "stat": "",
+        "durability": 1,
+        "quantity": 0,
+        "dropRate": 0,
+        "sprite": "potion2_2"
+    },{
+        "id": 6,
+        "name": "Potion",
+        "stat": "",
+        "durability": 1,
+        "quantity": 0,
+        "dropRate": 0,
+        "sprite": "potion2_3"
+    },{
+        "id": 7,
+        "name": "Potion",
+        "stat": "",
+        "durability": 1,
+        "quantity": 0,
+        "dropRate": 0,
+        "sprite": "potion2_4"
+    },
+]
